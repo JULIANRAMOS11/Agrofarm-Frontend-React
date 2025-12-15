@@ -16,6 +16,7 @@ body {
 .header {
   text-align: center;
   margin-bottom: 2rem;
+  position: relative; /* ✅ agregado: para ubicar el botón arriba a la derecha */
 }
 
 .header-subtitle {
@@ -106,6 +107,26 @@ h2 {
 .btn-primary:hover,
 .btn-secondary:hover {
   filter: brightness(1.05);
+}
+
+/* ✅ BOTÓN LOGOUT (AGREGADO) */
+.btn-logout {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #374151;
+  background-color: #020617;
+  color: #e5e7eb;
+
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.btn-logout:hover {
+  filter: brightness(1.08);
 }
 
 /* Tabla */
