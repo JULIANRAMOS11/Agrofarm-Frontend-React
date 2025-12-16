@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Agrofarm-Frontend-React/static/css/main.282e28ec.css",
-    "main.js": "/Agrofarm-Frontend-React/static/js/main.c7e3e84b.js",
+    "main.js": "/Agrofarm-Frontend-React/static/js/main.c057fb7f.js",
     "static/js/453.a6fbc0d4.chunk.js": "/Agrofarm-Frontend-React/static/js/453.a6fbc0d4.chunk.js",
     "index.html": "/Agrofarm-Frontend-React/index.html",
     "main.282e28ec.css.map": "/Agrofarm-Frontend-React/static/css/main.282e28ec.css.map",
-    "main.c7e3e84b.js.map": "/Agrofarm-Frontend-React/static/js/main.c7e3e84b.js.map",
+    "main.c057fb7f.js.map": "/Agrofarm-Frontend-React/static/js/main.c057fb7f.js.map",
     "453.a6fbc0d4.chunk.js.map": "/Agrofarm-Frontend-React/static/js/453.a6fbc0d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.282e28ec.css",
-    "static/js/main.c7e3e84b.js"
+    "static/js/main.c057fb7f.js"
   ]
 }
